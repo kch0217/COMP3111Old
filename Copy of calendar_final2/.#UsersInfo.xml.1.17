@@ -1,0 +1,12 @@
+<User-Array>
+  <Admin>
+    <mUsername>admin</mUsername>
+    <mPassword>d033e22ae348aeb5660fc2140aec35850c4da997</mPassword>
+    <mFirstname>admin</mFirstname>
+    <mLastname>admin</mLastname>
+    <mEmail>admin@ust.com</mEmail>
+    <mBirthday>1998-08-08 15:59:59.0</mBirthday>
+    <mState>1</mState>
+    <myDeclaredRight class="hkust.cse.calendar.UserRight.AdminUserRight"/>
+  </Admin>
+</User-Array>

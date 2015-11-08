@@ -1,0 +1,42 @@
+Í<User-Array>
+  <User>
+    <mUsername>test2</mUsername>
+    <mPassword>109f4b3c50d7b0df729d299bc6f8e9ef9066971f</mPassword>
+    <mFirstname>t</mFirstname>
+    <mLastname>t</mLastname>
+    <mEmail>t@ust.hk</mEmail>
+    <mBirthday>1999-09-09 15:59:59.0</mBirthday>
+    <mState>2</mState>
+    <myDeclaredRight class="hkust.cse.calendar.UserRight.NormalUserRight"/>
+  </User>
+  <Admin>
+    <mUsername>ken123</mUsername>
+    <mPassword>7c4a8d09ca3762af61e59520943dc26494f8941b</mPassword>
+    <mFirstname>ken</mFirstname>
+    <mLastname>kwok</mLastname>
+    <mEmail>ken@123.com</mEmail>
+    <mBirthday>1994-02-02 15:59:59.0</mBirthday>
+    <mState>1</mState>
+    <myDeclaredRight class="hkust.cse.calendar.UserRight.AdminUserRight"/>
+  </Admin>
+  <Admin>
+    <mUsername>admin</mUsername>
+    <mPassword>d033e22ae348aeb5660fc2140aec35850c4da997</mPassword>
+    <mFirstname>admin</mFirstname>
+    <mLastname>admin</mLastname>
+    <mEmail>admin@min.ust</mEmail>
+    <mBirthday>1999-09-09 15:59:59.0</mBirthday>
+    <mState>1</mState>
+    <myDeclaredRight class="hkust.cse.calendar.UserRight.AdminUserRight"/>
+  </Admin>
+  <User>
+    <mUsername>test1</mUsername>
+    <mPassword>b444ac06613fc8d63795be9ad0beaf55011936ac</mPassword>
+    <mFirstname>test</mFirstname>
+    <mLastname>i</mLastname>
+    <mEmail>t@ust.hk</mEmail>
+    <mBirthday>1988-08-08 14:59:59.0</mBirthday>
+    <mState>3</mState>
+    <myDeclaredRight class="hkust.cse.calendar.UserRight.NormalUserRight"/>
+  </User>
+</User-Array>

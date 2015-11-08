@@ -1,0 +1,327 @@
+<hkust.cse.calendar.apptstorage.ApptStorageNullImpl>
+  <mAppts>
+    <entry>
+      <int>0</int>
+      <Appointment>
+        <mTimeSpan>
+          <mStartTime>2014-12-08 02:00:00.0</mStartTime>
+          <mEndTime>2014-12-08 03:00:00.0</mEndTime>
+        </mTimeSpan>
+        <weekday>1</weekday>
+        <mTitle>Untitled</mTitle>
+        <mInfo>Input description of this appointment</mInfo>
+        <mApptID>0</mApptID>
+        <joinApptID>-1</joinApptID>
+        <isjoint>false</isjoint>
+        <attend/>
+        <reject/>
+        <waiting/>
+        <mLocation>
+          <__name> </__name>
+          <capacity>10</capacity>
+          <mState>true</mState>
+        </mLocation>
+        <ReminderNeed>false</ReminderNeed>
+        <ReminderSettle>false</ReminderSettle>
+        <mFrequency>0</mFrequency>
+        <currentUser>kenkwok</currentUser>
+        <state>true</state>
+        <publicPrivate>true</publicPrivate>
+        <invited/>
+        <remained>
+          <hkust.cse.calendar.unit.NormalUser>
+            <mUsername>kenkwok</mUsername>
+            <mPassword>f71cf77d491a13e5139dfc6501483122bb486dc6</mPassword>
+            <mFirstname>kenkwok</mFirstname>
+            <mLastname>kenkwok</mLastname>
+            <mEmail>kenkwok@krn.com</mEmail>
+            <mBirthday>1999-09-09 15:59:59.0</mBirthday>
+            <mState>3</mState>
+            <myDeclaredRight class="hkust.cse.calendar.UserRight.NormalUserRight"/>
+          </hkust.cse.calendar.unit.NormalUser>
+          <hkust.cse.calendar.unit.Admin>
+            <mUsername>admin2</mUsername>
+            <mPassword>315f166c5aca63a157f7d41007675cb44a948b33</mPassword>
+            <mFirstname>fdsaf</mFirstname>
+            <mLastname>dfasd</mLastname>
+            <mEmail>dfafdsa@fdsafdas.com</mEmail>
+            <mBirthday>2011-02-02 15:59:59.0</mBirthday>
+            <mState>1</mState>
+            <myDeclaredRight class="hkust.cse.calendar.UserRight.AdminUserRight"/>
+          </hkust.cse.calendar.unit.Admin>
+        </remained>
+        <groupEventcreate>false</groupEventcreate>
+        <initiator>false</initiator>
+        <dialog>true</dialog>
+      </Appointment>
+    </entry>
+    <entry>
+      <int>1</int>
+      <Appointment>
+        <mTimeSpan>
+          <mStartTime>2014-12-08 05:30:00.0</mStartTime>
+          <mEndTime>2014-12-08 10:00:00.0</mEndTime>
+        </mTimeSpan>
+        <weekday>1</weekday>
+        <mTitle>Untitled</mTitle>
+        <mInfo>Input description of this appointment</mInfo>
+        <mApptID>1</mApptID>
+        <joinApptID>-1</joinApptID>
+        <isjoint>false</isjoint>
+        <attend/>
+        <reject/>
+        <waiting/>
+        <mLocation>
+          <__name> </__name>
+          <capacity>10</capacity>
+          <mState>true</mState>
+        </mLocation>
+        <ReminderNeed>false</ReminderNeed>
+        <ReminderSettle>false</ReminderSettle>
+        <mFrequency>0</mFrequency>
+        <currentUser>admin2</currentUser>
+        <state>true</state>
+        <publicPrivate>true</publicPrivate>
+        <invited/>
+        <remained>
+          <hkust.cse.calendar.unit.NormalUser>
+            <mUsername>kenkwok</mUsername>
+            <mPassword>f71cf77d491a13e5139dfc6501483122bb486dc6</mPassword>
+            <mFirstname>kenkwok</mFirstname>
+            <mLastname>kenkwok</mLastname>
+            <mEmail>kenkwok@krn.com</mEmail>
+            <mBirthday>1999-09-09 15:59:59.0</mBirthday>
+            <mState>3</mState>
+            <myDeclaredRight class="hkust.cse.calendar.UserRight.NormalUserRight"/>
+          </hkust.cse.calendar.unit.NormalUser>
+          <hkust.cse.calendar.unit.Admin>
+            <mUsername>admin2</mUsername>
+            <mPassword>315f166c5aca63a157f7d41007675cb44a948b33</mPassword>
+            <mFirstname>fdsaf</mFirstname>
+            <mLastname>dfasd</mLastname>
+            <mEmail>dfafdsa@fdsafdas.com</mEmail>
+            <mBirthday>2011-02-02 15:59:59.0</mBirthday>
+            <mState>1</mState>
+            <myDeclaredRight class="hkust.cse.calendar.UserRight.AdminUserRight"/>
+          </hkust.cse.calendar.unit.Admin>
+        </remained>
+        <groupEventcreate>false</groupEventcreate>
+        <initiator>false</initiator>
+        <dialog>true</dialog>
+      </Appointment>
+    </entry>
+    <entry>
+      <int>2</int>
+      <Appointment>
+        <mTimeSpan>
+          <mStartTime>2014-12-08 05:30:00.0</mStartTime>
+          <mEndTime>2014-12-08 06:30:00.0</mEndTime>
+        </mTimeSpan>
+        <weekday>1</weekday>
+        <mTitle>Untitled</mTitle>
+        <mInfo>Input description of this appointment</mInfo>
+        <mApptID>2</mApptID>
+        <joinApptID>-1</joinApptID>
+        <isjoint>false</isjoint>
+        <attend/>
+        <reject/>
+        <waiting/>
+        <mLocation>
+          <__name> </__name>
+          <capacity>10</capacity>
+          <mState>true</mState>
+        </mLocation>
+        <ReminderNeed>false</ReminderNeed>
+        <ReminderSettle>false</ReminderSettle>
+        <mFrequency>0</mFrequency>
+        <currentUser>kenkwok</currentUser>
+        <state>true</state>
+        <publicPrivate>true</publicPrivate>
+        <invited/>
+        <remained>
+          <hkust.cse.calendar.unit.NormalUser>
+            <mUsername>kenkwok</mUsername>
+            <mPassword>f71cf77d491a13e5139dfc6501483122bb486dc6</mPassword>
+            <mFirstname>kenkwok</mFirstname>
+            <mLastname>kenkwok</mLastname>
+            <mEmail>kenkwok@krn.com</mEmail>
+            <mBirthday>1999-09-09 15:59:59.0</mBirthday>
+            <mState>3</mState>
+            <myDeclaredRight class="hkust.cse.calendar.UserRight.NormalUserRight"/>
+          </hkust.cse.calendar.unit.NormalUser>
+          <hkust.cse.calendar.unit.Admin>
+            <mUsername>admin2</mUsername>
+            <mPassword>315f166c5aca63a157f7d41007675cb44a948b33</mPassword>
+            <mFirstname>fdsaf</mFirstname>
+            <mLastname>dfasd</mLastname>
+            <mEmail>dfafdsa@fdsafdas.com</mEmail>
+            <mBirthday>2011-02-02 15:59:59.0</mBirthday>
+            <mState>1</mState>
+            <myDeclaredRight class="hkust.cse.calendar.UserRight.AdminUserRight"/>
+          </hkust.cse.calendar.unit.Admin>
+        </remained>
+        <groupEventcreate>false</groupEventcreate>
+        <initiator>false</initiator>
+        <dialog>true</dialog>
+      </Appointment>
+    </entry>
+  </mAppts>
+  <mAssignedApptID>3</mAssignedApptID>
+  <InitialID>0</InitialID>
+  <numOfAppt>3</numOfAppt>
+  <joinID>0</joinID>
+  <__locations>
+    <hkust.cse.calendar.unit.Location>
+      <__name> </__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>common room1</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>common room2</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>common room3</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>common room4</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>common room5</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>atrium</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>sports hall</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>lab</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>learning common</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+  </__locations>
+  <summary>
+    <entry>
+      <int>20141207</int>
+      <string>&quot;Partly cloudy throughout the day.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141206</int>
+      <string>&quot;Light rain in the morning.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141211</int>
+      <string>&quot;Breezy and overcast throughout the day.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141210</int>
+      <string>&quot;Overcast throughout the day and breezy overnight.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141209</int>
+      <string>&quot;Partly cloudy until evening.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141208</int>
+      <string>&quot;Partly cloudy until afternoon.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141213</int>
+      <string>&quot;Partly cloudy throughout the day.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141212</int>
+      <string>&quot;Mostly cloudy throughout the day.&quot;</string>
+    </entry>
+  </summary>
+  <humidity>
+    <entry>
+      <int>20141207</int>
+      <double>0.7</double>
+    </entry>
+    <entry>
+      <int>20141206</int>
+      <double>0.72</double>
+    </entry>
+    <entry>
+      <int>20141211</int>
+      <double>0.72</double>
+    </entry>
+    <entry>
+      <int>20141210</int>
+      <double>0.69</double>
+    </entry>
+    <entry>
+      <int>20141209</int>
+      <double>0.69</double>
+    </entry>
+    <entry>
+      <int>20141208</int>
+      <double>0.67</double>
+    </entry>
+    <entry>
+      <int>20141213</int>
+      <double>0.66</double>
+    </entry>
+    <entry>
+      <int>20141212</int>
+      <double>0.63</double>
+    </entry>
+  </humidity>
+  <temperature>
+    <entry>
+      <int>20141207</int>
+      <double>17.74</double>
+    </entry>
+    <entry>
+      <int>20141206</int>
+      <double>17.26</double>
+    </entry>
+    <entry>
+      <int>20141211</int>
+      <double>14.92</double>
+    </entry>
+    <entry>
+      <int>20141210</int>
+      <double>16.25</double>
+    </entry>
+    <entry>
+      <int>20141209</int>
+      <double>18.77</double>
+    </entry>
+    <entry>
+      <int>20141208</int>
+      <double>18.1</double>
+    </entry>
+    <entry>
+      <int>20141213</int>
+      <double>15.77</double>
+    </entry>
+    <entry>
+      <int>20141212</int>
+      <double>14.25</double>
+    </entry>
+  </temperature>
+</hkust.cse.calendar.apptstorage.ApptStorageNullImpl>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/xstream-1.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/xstream-1.4.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/XStream-1.4.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Xstream"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/xstream"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/xlib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/weather"/>
+	<classpathentry kind="lib" path="C:/Users/Ken/Documents/UST/eclipse/Temp/calendar_v2/src/hkust/cse/calendar/ForecastIOLib-1.5.1-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

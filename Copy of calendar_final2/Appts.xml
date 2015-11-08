@@ -1,0 +1,337 @@
+<hkust.cse.calendar.apptstorage.ApptStorageNullImpl>
+  <mAppts>
+    <entry>
+      <int>0</int>
+      <Appointment>
+        <mTimeSpan>
+          <mStartTime>2015-11-16 00:30:00.0</mStartTime>
+          <mEndTime>2015-11-16 01:30:00.0</mEndTime>
+        </mTimeSpan>
+        <weekday>1</weekday>
+        <mTitle>Untitled</mTitle>
+        <mInfo>Input description of this appointment</mInfo>
+        <mApptID>0</mApptID>
+        <joinApptID>-1</joinApptID>
+        <isjoint>false</isjoint>
+        <attend/>
+        <reject/>
+        <waiting/>
+        <mLocation>
+          <__name> </__name>
+          <capacity>10</capacity>
+          <mState>true</mState>
+        </mLocation>
+        <ReminderNeed>false</ReminderNeed>
+        <ReminderSettle>false</ReminderSettle>
+        <mFrequency>0</mFrequency>
+        <currentUser>ken123</currentUser>
+        <state>true</state>
+        <publicPrivate>false</publicPrivate>
+        <invited/>
+        <remained>
+          <hkust.cse.calendar.unit.NormalUser>
+            <mUsername>test2</mUsername>
+            <mPassword>109f4b3c50d7b0df729d299bc6f8e9ef9066971f</mPassword>
+            <mFirstname>t</mFirstname>
+            <mLastname>t</mLastname>
+            <mEmail>t@ust.hk</mEmail>
+            <mBirthday>1999-09-09 15:59:59.0</mBirthday>
+            <mState>2</mState>
+            <myDeclaredRight class="hkust.cse.calendar.UserRight.NormalUserRight"/>
+          </hkust.cse.calendar.unit.NormalUser>
+          <hkust.cse.calendar.unit.Admin>
+            <mUsername>ken123</mUsername>
+            <mPassword>7c4a8d09ca3762af61e59520943dc26494f8941b</mPassword>
+            <mFirstname>ken</mFirstname>
+            <mLastname>kwok</mLastname>
+            <mEmail>ken@123.com</mEmail>
+            <mBirthday>1994-02-02 15:59:59.0</mBirthday>
+            <mState>1</mState>
+            <myDeclaredRight class="hkust.cse.calendar.UserRight.AdminUserRight"/>
+          </hkust.cse.calendar.unit.Admin>
+          <hkust.cse.calendar.unit.Admin>
+            <mUsername>admin</mUsername>
+            <mPassword>d033e22ae348aeb5660fc2140aec35850c4da997</mPassword>
+            <mFirstname>admin</mFirstname>
+            <mLastname>admin</mLastname>
+            <mEmail>admin@min.ust</mEmail>
+            <mBirthday>1999-09-09 15:59:59.0</mBirthday>
+            <mState>1</mState>
+            <myDeclaredRight class="hkust.cse.calendar.UserRight.AdminUserRight"/>
+          </hkust.cse.calendar.unit.Admin>
+          <hkust.cse.calendar.unit.NormalUser>
+            <mUsername>test1</mUsername>
+            <mPassword>b444ac06613fc8d63795be9ad0beaf55011936ac</mPassword>
+            <mFirstname>test</mFirstname>
+            <mLastname>i</mLastname>
+            <mEmail>t@ust.hk</mEmail>
+            <mBirthday>1988-08-08 14:59:59.0</mBirthday>
+            <mState>3</mState>
+            <myDeclaredRight class="hkust.cse.calendar.UserRight.NormalUserRight"/>
+          </hkust.cse.calendar.unit.NormalUser>
+        </remained>
+        <groupEventcreate>false</groupEventcreate>
+        <initiator>false</initiator>
+        <dialog>true</dialog>
+      </Appointment>
+    </entry>
+  </mAppts>
+  <mAssignedApptID>1</mAssignedApptID>
+  <InitialID>0</InitialID>
+  <numOfAppt>1</numOfAppt>
+  <joinID>0</joinID>
+  <__locations>
+    <hkust.cse.calendar.unit.Location>
+      <__name> </__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>common room1</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>common room2</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>common room3</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>common room4</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>common room5</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>atrium</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>sports hall</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>lab</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+    <hkust.cse.calendar.unit.Location>
+      <__name>learning common</__name>
+      <capacity>10</capacity>
+      <mState>true</mState>
+    </hkust.cse.calendar.unit.Location>
+  </__locations>
+  <summary>
+    <entry>
+      <int>20141207</int>
+      <string>&quot;Drizzle in the morning.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141211</int>
+      <string>&quot;Breezy and overcast throughout the day.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141210</int>
+      <string>&quot;Mostly cloudy throughout the day and breezy overnight.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141209</int>
+      <string>&quot;Mostly cloudy throughout the day.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141208</int>
+      <string>&quot;Partly cloudy in the morning.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141214</int>
+      <string>&quot;Partly cloudy throughout the day.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141213</int>
+      <string>&quot;Mostly cloudy throughout the day.&quot;</string>
+    </entry>
+    <entry>
+      <int>20141212</int>
+      <string>&quot;Partly cloudy throughout the day.&quot;</string>
+    </entry>
+    <entry>
+      <int>20151107</int>
+      <string>&quot;Partly cloudy throughout the day.&quot;</string>
+    </entry>
+    <entry>
+      <int>20151106</int>
+      <string>&quot;Partly cloudy overnight.&quot;</string>
+    </entry>
+    <entry>
+      <int>20151111</int>
+      <string>&quot;Drizzle in the morning and afternoon.&quot;</string>
+    </entry>
+    <entry>
+      <int>20151110</int>
+      <string>&quot;Partly cloudy until evening.&quot;</string>
+    </entry>
+    <entry>
+      <int>20151109</int>
+      <string>&quot;Breezy in the morning and partly cloudy until evening.&quot;</string>
+    </entry>
+    <entry>
+      <int>20151108</int>
+      <string>&quot;Drizzle overnight.&quot;</string>
+    </entry>
+    <entry>
+      <int>20151113</int>
+      <string>&quot;Light rain in the morning and afternoon.&quot;</string>
+    </entry>
+    <entry>
+      <int>20151112</int>
+      <string>&quot;Light rain in the morning and afternoon.&quot;</string>
+    </entry>
+  </summary>
+  <humidity>
+    <entry>
+      <int>20141207</int>
+      <double>0.7</double>
+    </entry>
+    <entry>
+      <int>20141211</int>
+      <double>0.68</double>
+    </entry>
+    <entry>
+      <int>20141210</int>
+      <double>0.69</double>
+    </entry>
+    <entry>
+      <int>20141209</int>
+      <double>0.7</double>
+    </entry>
+    <entry>
+      <int>20141208</int>
+      <double>0.68</double>
+    </entry>
+    <entry>
+      <int>20141214</int>
+      <double>0.69</double>
+    </entry>
+    <entry>
+      <int>20141213</int>
+      <double>0.65</double>
+    </entry>
+    <entry>
+      <int>20141212</int>
+      <double>0.59</double>
+    </entry>
+    <entry>
+      <int>20151107</int>
+      <double>0.86</double>
+    </entry>
+    <entry>
+      <int>20151106</int>
+      <double>0.84</double>
+    </entry>
+    <entry>
+      <int>20151111</int>
+      <double>0.77</double>
+    </entry>
+    <entry>
+      <int>20151110</int>
+      <double>0.74</double>
+    </entry>
+    <entry>
+      <int>20151109</int>
+      <double>0.78</double>
+    </entry>
+    <entry>
+      <int>20151108</int>
+      <double>0.84</double>
+    </entry>
+    <entry>
+      <int>20151113</int>
+      <double>0.82</double>
+    </entry>
+    <entry>
+      <int>20151112</int>
+      <double>0.8</double>
+    </entry>
+  </humidity>
+  <temperature>
+    <entry>
+      <int>20141207</int>
+      <double>17.76</double>
+    </entry>
+    <entry>
+      <int>20141211</int>
+      <double>14.45</double>
+    </entry>
+    <entry>
+      <int>20141210</int>
+      <double>16.61</double>
+    </entry>
+    <entry>
+      <int>20141209</int>
+      <double>17.82</double>
+    </entry>
+    <entry>
+      <int>20141208</int>
+      <double>18.39</double>
+    </entry>
+    <entry>
+      <int>20141214</int>
+      <double>17.89</double>
+    </entry>
+    <entry>
+      <int>20141213</int>
+      <double>15.72</double>
+    </entry>
+    <entry>
+      <int>20141212</int>
+      <double>14.47</double>
+    </entry>
+    <entry>
+      <int>20151107</int>
+      <double>28.46</double>
+    </entry>
+    <entry>
+      <int>20151106</int>
+      <double>26.21</double>
+    </entry>
+    <entry>
+      <int>20151111</int>
+      <double>27.24</double>
+    </entry>
+    <entry>
+      <int>20151110</int>
+      <double>27.51</double>
+    </entry>
+    <entry>
+      <int>20151109</int>
+      <double>27.21</double>
+    </entry>
+    <entry>
+      <int>20151108</int>
+      <double>28.17</double>
+    </entry>
+    <entry>
+      <int>20151113</int>
+      <double>25.7</double>
+    </entry>
+    <entry>
+      <int>20151112</int>
+      <double>27.62</double>
+    </entry>
+  </temperature>
+  <UserpendingToDel>
+    <string>test2</string>
+  </UserpendingToDel>
+  <numOfUser>1</numOfUser>
+</hkust.cse.calendar.apptstorage.ApptStorageNullImpl>
